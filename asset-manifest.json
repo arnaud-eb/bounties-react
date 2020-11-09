@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bounties-react/static/css/main.39a405ad.chunk.css",
+    "main.js": "/bounties-react/static/js/main.e9e18fcd.chunk.js",
+    "main.js.map": "/bounties-react/static/js/main.e9e18fcd.chunk.js.map",
+    "runtime-main.js": "/bounties-react/static/js/runtime-main.1a3bcc82.js",
+    "runtime-main.js.map": "/bounties-react/static/js/runtime-main.1a3bcc82.js.map",
+    "static/css/2.afb5e1ff.chunk.css": "/bounties-react/static/css/2.afb5e1ff.chunk.css",
+    "static/js/2.e3b8917b.chunk.js": "/bounties-react/static/js/2.e3b8917b.chunk.js",
+    "static/js/2.e3b8917b.chunk.js.map": "/bounties-react/static/js/2.e3b8917b.chunk.js.map",
+    "index.html": "/bounties-react/index.html",
+    "precache-manifest.8c731537deffcb50502e8b1a4e933a34.js": "/bounties-react/precache-manifest.8c731537deffcb50502e8b1a4e933a34.js",
+    "service-worker.js": "/bounties-react/service-worker.js",
+    "static/css/2.afb5e1ff.chunk.css.map": "/bounties-react/static/css/2.afb5e1ff.chunk.css.map",
+    "static/css/main.39a405ad.chunk.css.map": "/bounties-react/static/css/main.39a405ad.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a3bcc82.js",
+    "static/css/2.afb5e1ff.chunk.css",
+    "static/js/2.e3b8917b.chunk.js",
+    "static/css/main.39a405ad.chunk.css",
+    "static/js/main.e9e18fcd.chunk.js"
+  ]
+}
